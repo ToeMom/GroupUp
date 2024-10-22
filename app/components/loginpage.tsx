@@ -16,7 +16,7 @@ const LoginPage: FC = () => {
         }
 
         // Přesměrování uživatele po úspěšném vyplnění
-        window.location.href = '../LoginPage'; 
+        window.location.href = '../MainPage'; 
     };
 
     return (
